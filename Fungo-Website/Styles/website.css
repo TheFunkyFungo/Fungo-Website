@@ -1,0 +1,54 @@
+.Left-sidebar-button{
+    background-color: #aecb90;
+    color: #632A0f;
+    height: 60px;
+    width: 180px;
+    border-radius: 15px;
+    cursor: pointer;
+    font-family: cursive;
+    font-size: x-large;
+    font-weight: bold;
+    border: solid;
+    border-color: black;
+    margin-right: 25px;
+    margin-top: 1px;
+    vertical-align: top;
+    transition: 500ms;
+  }
+.Left-sidebar-button:hover {
+    opacity: 0.75;
+    background-color: black;
+    color: #aecb90;
+    border-color: #632A0f;
+    margin-top: 7px;
+    margin-left: 7px;
+  }
+.Left-sidebar-button:active {
+    opacity: 0.45;
+    transition: 0ms;
+  }
+.mail{
+    font-size: xx-small;
+    width: 10px;
+    color: white;
+  }
+.Home-Page{
+    font-style: italic;
+    font-variant: small-caps;
+    text-align: center;
+    margin-left: 400px;
+  }
+.Header{
+    font-size: 60px;
+    font-weight:bold;
+    font-style: italic;
+    font-family: 'Italianno', cursive;
+    text-align: center;
+    margin-bottom: 3px;
+  }
+.Family{
+    font-size: 26px;
+    text-align: center;
+    font-family: 'Mea Culpa', cursive ;
+
+  }
